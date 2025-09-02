@@ -1,10 +1,3 @@
-entred content on git hub 
-
-add this as second line in local repo
-
-the second line for knowing the conflicts during the push
-jsaklfalkfefbbvsfvfewpof
-the third line just for testing 
 
 
 
